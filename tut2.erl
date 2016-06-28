@@ -18,4 +18,4 @@ convert(N, centimeter) ->
 % 4> tut2:convert(7,miles)
 % 4> .
 % ** exception error: no function clause matching tut2:convert(7,miles) (tut2.erl, line 4)
-5>
+% 5>
